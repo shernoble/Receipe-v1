@@ -1,0 +1,7 @@
+create new category
+blog experience
+follow users
+bookmark 
+
+breadcrumb fic: go back and forward for all pages in connection
+have personalized breadcrumb for each recipe
